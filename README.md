@@ -7,7 +7,7 @@
   > 
   > **精选高质量MCP服务器合集**
 
-  [![Join Discord](https://img.shields.io/discord/1331518991636529173?color=7289da&label=Join%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/EXT6TpW3)
+  [![Join Our Discord Community](https://img.shields.io/badge/🚀%20Join%20Discord%20Community-Join%20Now-7289da?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c2f33)](https://discord.gg/EXT6TpW3)
   
   [![GitHub stars](https://img.shields.io/github/stars/yzfly/mcp-star.svg?style=flat-square)](https://github.com/yzfly/mcp-star/stargazers)
   [![License](https://img.shields.io/github/license/yzfly/mcp-star.svg?style=flat-square)](https://github.com/yzfly/mcp-star/blob/main/LICENSE)
@@ -56,21 +56,18 @@
 4. 🤝 **[Join Discord](https://discord.gg/EXT6TpW3)** to connect with other developers
 
 ## 💬 Join Our Community
+  
+**🚀 Ready to discover amazing MCP servers and connect with quality-focused developers?**
 
-<div align="center">
+[![Join Discord](https://img.shields.io/badge/💬%20Join%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c2f33)](https://discord.gg/EXT6TpW3)
+
+**What you'll get in our Discord:**
+- 🌟 **Discover** the latest high-quality MCP servers
+- 🤝 **Connect** with expert MCP developers  
+- 🛠️ **Get help** with your MCP projects
+- 📊 **Share** your own quality servers
+- 🎯 **Stay updated** on MCP ecosystem trends
   
-  **🚀 Ready to discover amazing MCP servers and connect with quality-focused developers?**
-  
-  [![Join Discord](https://img.shields.io/badge/💬%20Join%20Discord-7289da?style=for-the-badge&logo=discord&logoColor=white&labelColor=2c2f33)](https://discord.gg/EXT6TpW3)
-  
-  **What you'll get in our Discord:**
-  - 🌟 **Discover** the latest high-quality MCP servers
-  - 🤝 **Connect** with expert MCP developers  
-  - 🛠️ **Get help** with your MCP projects
-  - 📊 **Share** your own quality servers
-  - 🎯 **Stay updated** on MCP ecosystem trends
-  
-</div>
 
 ## 🤝 Contributing
 
